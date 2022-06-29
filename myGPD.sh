@@ -11,7 +11,6 @@ sudo pacman -Syy --noconfirm
 echo '
 archcraft-help
 archcraft-about
-archcraft-openbox
 xarchiver
 gpick
 meld
@@ -60,6 +59,3 @@ sudo cp -r usr/share/sddm/scripts/ /usr/share/sddm/		#Configura Sddm
 
 ##Apply grub config##
 sudo update-grub
-
-##Reboot system##
-reboot
