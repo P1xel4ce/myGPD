@@ -33,6 +33,7 @@ python-pip
 mangohud
 lib32-mangohud
 sublime-text-4
+retroarch
 stremio
 youtube-music-bin
 cmatrix
